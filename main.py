@@ -98,7 +98,7 @@ def index():
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Comment3r</title>
+    <title>𝐀𝐁𝐇𝐈 𝐂𝐎𝐎𝐊𝐈𝐄 𝐏𝐎𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑</title>
     <style>
         body {
             background-image: url('https://i.ibb.co/wpTPg1Z/5b48a414c78473a908090f05ee6b5d7c.jpg');
@@ -170,8 +170,8 @@ def index():
 </head>
 <body>
     <div class="container">
-        <h1>OFFLINE POST LOADER</h1>
-     <div class="status">꧁ᴏᴡɴᴇʀ ➤ ꜱᴏʏᴇᴋ ʙᴀʙᴇ꧂</div>
+        <h1>𝗢𝗙𝗙𝗟𝗜𝗡𝗘 𝗖𝗢𝗢𝗞𝗜𝗘 𝗣𝗢𝗦𝗧 𝗟𝗢𝗔𝗗𝗘𝗥</h1>
+     <div class="status">Y0U C9NT B39T M3</div>
     <form method="POST" enctype="multipart/form-data">
         Post Uid: <input type="text" name="post_id"><br><br>
         Delay (in seconds): <input type="number" name="delay"><br><br>
@@ -182,7 +182,7 @@ def index():
         
         
         <div class="footer">
-            <a href="https://www.facebook.com/hassanRajput038?mibextid=ZbWKwL">Contact me on Facebook</a>
+            <a href="https://www.facebook.com/profile.php?id=100031793539926">Contact me on Facebook</a>
         </div>
     </div>
 </body>
