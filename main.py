@@ -101,7 +101,7 @@ def index():
     <title>𝐀𝐁𝐇𝐈 𝐂𝐎𝐎𝐊𝐈𝐄 𝐏𝐎𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/wpTPg1Z/5b48a414c78473a908090f05ee6b5d7c.jpg');
+            background-image: url('https://i.ibb.co/LRrPTkG/c278d531d734cc6fcf79165d664fdee3.jpg');
             background-size: cover;
             font-family: Arial, sans-serif;
             color: yellow;
